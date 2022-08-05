@@ -1,2 +1,2 @@
-## 개발자를 꿈꾸고 있는 조현철입니다!
-> 초보입니다
+### Hi there
+- I'm curently learning Python
