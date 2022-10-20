@@ -13,8 +13,6 @@
 
 <br><br>
 <h2>:brain:알고리즘</h2>
-<h3>:ring:silver<br></h3>
-
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chaoman5)](https://solved.ac/chaoman5)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chulhyunjo)](https://github.com/chulhyunjo/github-readme-stats)
