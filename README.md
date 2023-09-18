@@ -1,6 +1,5 @@
 <div align=center>
 <h2>:hand:Introduction</h2>
-<h4>:point_right:안녕하세요! 개발자를 꿈꾸고 있는 조현철입니다.</h4>
 열정을 가지고 꾸준히 학습하고 있는 예비 개발자입니다!:baby:<br><br>
 
 <br>
