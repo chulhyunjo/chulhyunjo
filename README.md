@@ -1,6 +1,6 @@
 <div align=center>
 <h2>:hand:Introduction</h2>
-열정을 가지고 꾸준히 학습하고 있는 예비 개발자입니다!:baby:<br><br>
+열정을 가지고 꾸준히 학습하고 있는 예비 개발자입니다!
 
 <br>
   
